@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>851E9291-5417-46FA-8055-4E8A492E841F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KeyboardShenanigans</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>99AEA814-E286-4E8E-9124-6591A71601A9</key>
+		<string>ssh://github.com/tomabuct/KeyboardShenanigans.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KeyboardShenanigans.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>99AEA814-E286-4E8E-9124-6591A71601A9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/tomabuct/KeyboardShenanigans.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>99AEA814-E286-4E8E-9124-6591A71601A9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>99AEA814-E286-4E8E-9124-6591A71601A9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KeyboardShenanigans</string>
+		</dict>
+	</array>
+</dict>
+</plist>
